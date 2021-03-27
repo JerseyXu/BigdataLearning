@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdc02f61-d882-435b-9b8a-fe188fa1b767" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="bdc02f61-d882-435b-9b8a-fe188fa1b767" name="Default Changelist" comment="init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,12 +169,24 @@
       <workItem from="1616588180011" duration="1708000" />
       <workItem from="1616760639651" duration="2400000" />
       <workItem from="1616821134805" duration="785000" />
-      <workItem from="1616822256832" duration="2520000" />
+      <workItem from="1616822256832" duration="3676000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1616825048434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616825048434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="169" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615943625241">
@@ -185,18 +197,18 @@
       <screen x="0" y="0" width="1376" height="733" />
     </state>
     <state x="315" y="45" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1376.733@0.0.1376.733" timestamp="1615942322412" />
-    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1616824630593">
+    <state x="299" y="0" key="CommitChangelistDialog2" timestamp="1616825919141">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1376.733@0.0.1376.733" timestamp="1616824630593" />
-    <state x="469" y="108" key="FileChooserDialogImpl" timestamp="1616824978350">
+    <state x="299" y="0" key="CommitChangelistDialog2/0.0.1376.733@0.0.1376.733" timestamp="1616825919141" />
+    <state x="469" y="108" key="FileChooserDialogImpl" timestamp="1616825852072">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state x="469" y="108" key="FileChooserDialogImpl/0.0.1376.733@0.0.1376.733" timestamp="1616824978350" />
-    <state x="547" y="257" key="Github.ShareDialog" timestamp="1616824436093">
+    <state x="469" y="108" key="FileChooserDialogImpl/0.0.1376.733@0.0.1376.733" timestamp="1616825852072" />
+    <state x="547" y="257" key="Github.ShareDialog" timestamp="1616826003702">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state x="547" y="257" key="Github.ShareDialog/0.0.1376.733@0.0.1376.733" timestamp="1616824436093" />
+    <state x="547" y="257" key="Github.ShareDialog/0.0.1376.733@0.0.1376.733" timestamp="1616826003702" />
     <state x="379" y="72" key="Github.UntrackedFilesDialog" timestamp="1616824503340">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
@@ -221,18 +233,18 @@
       <screen x="0" y="0" width="1376" height="733" />
     </state>
     <state x="169" y="0" key="SettingsEditor/0.0.1376.733@0.0.1376.733" timestamp="1616824424718" />
-    <state x="379" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1616822280810">
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1616825979021">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state x="379" y="191" key="com.intellij.ide.util.TipDialog/0.0.1376.733@0.0.1376.733" timestamp="1616822280810" />
+    <state x="379" y="191" key="com.intellij.ide.util.TipDialog/0.0.1376.733@0.0.1376.733" timestamp="1616825979021" />
     <state x="491" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616824636697">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
     <state x="491" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.733@0.0.1376.733" timestamp="1616824636697" />
-    <state x="395" y="158" key="git4idea.merge.GitPullDialog" timestamp="1616824654751">
+    <state x="395" y="158" key="git4idea.merge.GitPullDialog" timestamp="1616825846470">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state x="395" y="158" key="git4idea.merge.GitPullDialog/0.0.1376.733@0.0.1376.733" timestamp="1616824654751" />
+    <state x="395" y="158" key="git4idea.merge.GitPullDialog/0.0.1376.733@0.0.1376.733" timestamp="1616825846470" />
     <state x="69" y="61" key="new project wizard" timestamp="1615943605638">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
