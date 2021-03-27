@@ -1,4 +1,9 @@
-package day2;
+package arrary.day2;
+
+/**
+ *  这是关于二维数组基础知识的运用
+ */
+
 
 public class ArrayTest2 {
     public static void main(String[] args) {

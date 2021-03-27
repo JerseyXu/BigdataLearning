@@ -1,7 +1,9 @@
-package day1;
+package arrary.day1;
 
 
-
+/**
+ * 这是关于一维数组基础知识的运用
+ */
 public class ArrayTest {
     public static void main(String[] args) {
         /**
