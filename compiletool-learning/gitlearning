@@ -1,0 +1,8 @@
+step1: 配置连接github
+  https://www.jb51.net/article/191228.html
+step2: 上传代码时需要配置配置ssh key
+https://blog.csdn.net/pan_xi_yi/article/details/83513021
+
+tips:
+    1 使用idea连接github时，需注意使用token 来进行连接，具体生成方式  github(setting)-->developer setting-->personal access token
+    2 上传代码时，需注意预先配置好ssh key，方式access denied
